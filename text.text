@@ -1,0 +1,12 @@
+<th style="width: 22%;">DEG</th>
+<th style="width: 22%;">TEMP</th>
+<th style="width: 22%;">TEMP_MIN</th>
+<th style="width: 22%;">TEMP_MAX</th>
+<th style="width: 22%;">PRESSURE</th>
+<th style="width: 22%;">HUMIDITY</th>
+<th style="width: 22%;">WIND</th>
+<th style="width: 22%;">SPEED</th>
+<th style="width: 22%;">SUNRISE</th>
+<th style="width: 22%;">SUNSET</th>
+
+
